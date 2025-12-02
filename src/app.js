@@ -1,5 +1,6 @@
 console.log('App lista');
 console.log('Commit dummy para poder avanzar con el flujo'); // cambio seguro para commit
+console.log('Commit 3: listo para PR'); // nuevo console.log para generar el tercer commit
 
 export function agregarItem(texto) {
   const lista = document.getElementById('lista');
