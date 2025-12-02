@@ -1,0 +1,28 @@
+{
+  "name": "taller-git-ci-3223875-steven",
+  "version": "1.0.0",
+  "description": "cat > README.md << 'EOF'",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSCB10/taller-git-ci-3223875-steven.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HSCB10/taller-git-ci-3223875-steven/issues"
+  },
+  "homepage": "https://github.com/HSCB10/taller-git-ci-3223875-steven#readme",
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "prettier": "^3.7.3"
+  }
+}
