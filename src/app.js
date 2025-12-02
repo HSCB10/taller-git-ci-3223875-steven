@@ -1,4 +1,5 @@
 console.log('App lista');
+console.log('Commit dummy para poder avanzar con el flujo'); // cambio seguro para commit
 
 export function agregarItem(texto) {
   const lista = document.getElementById('lista');
